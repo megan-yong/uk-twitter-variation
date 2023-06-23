@@ -1,7 +1,10 @@
-# uk-twitter-variation
+<h1>L2 Syntax Analyses</h1>
 
-February 24, 2023
+<b>Date completed:</b> February 24, 2023
 
-R code analysing the variation of "sweater", "jumper", and "pullover" in the UK based on tweets. 
+<h2>Description</h2>
+This project used R to analyse the lexical variation of "sweater", "jumper", and "pullover" in the UK based on geo-tagged tweets. 
 
-** Needs refinining and a larger dataset to have a more accurate analysis and comparison. 
+<h2>Remarks</h2>
+
+- Needs refinining and a larger dataset to have a more accurate analysis and comparison. 
