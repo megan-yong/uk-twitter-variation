@@ -7,4 +7,5 @@ This project used R to analyse the lexical variation of "sweater", "jumper", and
 
 <h2>Remarks</h2>
 
-- Needs refinining and a larger dataset to have a more accurate analysis and comparison. 
+- Needs refinining and a larger dataset to have a more accurate analysis and comparison.
+- Update 2024: Unfortunately, since Twitter API is no longer free (thanks a lot Elon), I am unable to carry out these changes.
